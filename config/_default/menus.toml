@@ -3,44 +3,33 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+#[[main]]
+#  name = "Demo"
+#  url = "#about"
+#  weight = 10
+
 [[main]]
-  name = "Demo"
-  url = "#about"
-  weight = 10
+  name = "Empieza aquí"  # Title of the link.
+  url = "landing/"  # Widget Page folder name.
+  weight = 2  # Position of the link in the navigation bar.
 
 [[main]]
   name = "Posts"
   url = "#posts"
   weight = 20
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+#[[main]]
+ # name = "Talks"
+  #url = "#talks"
+  #weight = 40
 
+#[[main]]
+ # name = "Jardín digital"
+#  url = "jardin_digital/"
+ # weight = 40
+  
 [[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 40
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 50
-
-[[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "Notas de Libros"
+  url = "notas_libros/"
   weight = 60
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 70
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "media/resume.pdf"
-#    weight = 70
