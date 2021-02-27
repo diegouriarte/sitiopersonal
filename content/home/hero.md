@@ -2,8 +2,9 @@
 widget: hero
 headless: true
 weight: 10
-title: Hugo Academic Starter
+title: Diego Uriarte
 hero_media: hero-academic.png
+active: false
 cta:
   label: '**Get Started**'
   url: https://wowchemy.com/templates/

@@ -1,6 +1,6 @@
 theme: starter-academic
 title: Academic
-baseurl: ''
+baseurl: 'diegouriarte.netlify.app'
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
