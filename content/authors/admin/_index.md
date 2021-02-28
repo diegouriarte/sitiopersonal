@@ -53,6 +53,12 @@ Implemento y mejoro cada cierto tiempo mis flujos de trabajo e intento integrar 
 
 Con respecto a las finanzas personales, sigo de cerca al movimiento FIRE (Financial Independence Retire Early), y lo aplico a la realidad de mi país. Espero alcanzar la independencia financiera en algún punto en los próximos quince años.
 
+Tengo un [newsletter]({{< relref "/newsletter/index" >}}) semanal, donde comparto los artículos que he leído en la semana, y en lo que he estado pensando. Se pueden suscribir aquí ⏬
+
+<DIV align="center">
+  <iframe src="https://diegouriarte.substack.com/embed" width="300" height="100" style="border:0px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</DIV>
+
 <!--Me encanta aprender sobre aprender (meta cognición), he llevado algunos cursos online y leído libros al respecto.  Por ello, también he implementado un jardín digital con los temas que me interesan.*/}}-->
 
 
